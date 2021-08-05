@@ -1,1 +1,3 @@
 nerdlab/
+*.key
+*.crt
